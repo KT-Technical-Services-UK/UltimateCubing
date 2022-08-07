@@ -1,0 +1,2 @@
+# UltimateCubing
+Website for SpeedCubing
